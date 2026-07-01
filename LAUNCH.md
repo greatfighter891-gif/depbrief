@@ -6,8 +6,10 @@ Fill in `<GITHUB_URL>` once the repo is public.
 - [x] GitHub repo live: https://github.com/greatfighter891-gif/depbrief
 - [x] Published to npm: https://www.npmjs.com/package/depbrief — verified `npx depbrief@latest` installs and runs correctly from the registry.
 
-## 1. Show HN
-**Title (must be ≤80 chars for HN):** Show HN: depbrief - a verdict for each dependency upgrade (vulns, semver)
+## 1. Show HN — ON HOLD
+New accounts are temporarily gated from posting Show HN (HN's anti-spam measure during a signup surge). Plan: participate normally on HN for a while (comments on other posts) to build a bit of history, then retry. Not urgent — revisit later.
+
+**Title (must be ≤80 chars for HN), for whenever we retry:** Show HN: depbrief - a verdict for each dependency upgrade (vulns, semver)
 
 **Body:**
 > `npm outdated` tells you what's outdated. `npm audit` tells you what's currently vulnerable. Neither tells you, in one line, whether upgrading from version A to B is safe to merge blind or needs a human to look. Renovate/Dependabot solve this but need a GitHub App installed and live in your PR flow — I wanted the same signal as a 2-second local command before that.
@@ -18,7 +20,9 @@ Fill in `<GITHUB_URL>` once the repo is public.
 >
 > GitHub: <GITHUB_URL>
 
-## 2. r/node / r/programming
+## 2. r/node — POSTED (2026-07-01)
+https://www.reddit.com/r/node/comments/1ukybss/built_a_cli_that_gives_a_plain_verdict_on_whether/
+
 **Title:** Built a CLI that gives a plain verdict on whether a dependency upgrade is safe
 
 **Body:**
