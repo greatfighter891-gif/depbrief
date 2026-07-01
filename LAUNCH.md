@@ -7,7 +7,7 @@ Fill in `<GITHUB_URL>` once the repo is public.
 - [x] Published to npm: https://www.npmjs.com/package/depbrief — verified `npx depbrief@latest` installs and runs correctly from the registry.
 
 ## 1. Show HN
-**Title:** Show HN: depbrief – one verdict per dependency upgrade (semver + known vulns + deprecation)
+**Title (must be ≤80 chars for HN):** Show HN: depbrief - a verdict for each dependency upgrade (vulns, semver)
 
 **Body:**
 > `npm outdated` tells you what's outdated. `npm audit` tells you what's currently vulnerable. Neither tells you, in one line, whether upgrading from version A to B is safe to merge blind or needs a human to look. Renovate/Dependabot solve this but need a GitHub App installed and live in your PR flow — I wanted the same signal as a 2-second local command before that.
