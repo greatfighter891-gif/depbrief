@@ -2,9 +2,9 @@
 
 Fill in `<GITHUB_URL>` once the repo is public.
 
-## 0. Prerequisites (needs your account — I can't do these for you)
-- [ ] Create a public GitHub repo (e.g. `depbrief`) and push this directory.
-- [ ] `npm publish` from this directory (needs an npm account).
+## 0. Prerequisites — DONE (2026-07-01)
+- [x] GitHub repo live: https://github.com/greatfighter891-gif/depbrief
+- [x] Published to npm: https://www.npmjs.com/package/depbrief — verified `npx depbrief@latest` installs and runs correctly from the registry.
 
 ## 1. Show HN
 **Title:** Show HN: depbrief – one verdict per dependency upgrade (semver + known vulns + deprecation)
